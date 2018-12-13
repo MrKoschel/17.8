@@ -1,0 +1,19 @@
+{
+  "name": "17.8",
+  "version": "1.0.0",
+  "description": "first json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "first"
+  ],
+  "author": "piotr",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "stat-mode": "^0.2.2"
+  }
+}
